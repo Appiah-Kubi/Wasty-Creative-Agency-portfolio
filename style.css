@@ -1,0 +1,44 @@
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f4f4f4;
+color:#333;
+}
+header{
+background:#111;
+color:white;
+padding:20px;
+text-align:center;
+}
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+}
+.hero{
+padding:80px;
+text-align:center;
+background:white;
+}
+button{
+padding:15px 30px;
+background:black;
+color:white;
+border:none;
+cursor:pointer;
+}
+section{
+padding:40px;
+}
+.card{
+background:white;
+padding:20px;
+margin:20px;
+border-radius:10px;
+}
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:20px;
+}
