@@ -70,3 +70,11 @@ text-align:center;
 padding:20px;
 background:#020617;
 }
+
+.profile-image {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid white;
+}
